@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:igorgallo17@gmail.com.">
+  <a href="mailto:igorgallo17@gmail.com">
     <img src="https://img.shields.io/badge/send%20me%20a%20email-silver?style=for-the-badge&logo=gmail&link=mailto:igorgallo17@gmail.com" alt="Send email badge" />
   </a>
   <a href="https://www.linkedin.com/in/igor-gallo-de-almeida/">
