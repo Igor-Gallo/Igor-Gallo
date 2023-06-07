@@ -53,8 +53,18 @@
 <h2 align="center">🤝 Vamos Conectar!</h2>
 
 <p align="center">
-  Adoro me conectar com outros profissionais e aprender coisas novas. Não hesite em entrar em contato comigo via <a href="(https://www.linkedin.com/in/igor-gallo-de-almeida/)">LinkedIn</a> ou por e-mail (igorgallo17@gmail.com).
+  Adoro me conectar com outros profissionais e aprender coisas novas. Não hesite em entrar em contato comigo via:
 </p>
+
+<p align="center">
+  <a href="mailto:igorgallo17@gmail.com.">
+    <img src="https://img.shields.io/badge/send%20me%20a%20email-silver?style=for-the-badge&logo=gmail&link=mailto:igorgallo17@gmail.com" alt="Send email badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/igor-gallo-de-almeida/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+</p>
+
 
 <p align="center">
   Obrigado por visitar meu perfil. Estou ansioso para colaborar com você!
