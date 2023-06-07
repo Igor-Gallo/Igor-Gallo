@@ -2,7 +2,7 @@
 <h3 align="center">Um apaixonado por tecnologia, redes e Cloud Computing</h3>
 
 <p align="center">
-  <img src="(https://avatars.githubusercontent.com/u/58912920?s=400&u=03b9176e8db252480597974528a6307a1203f41b&v=4)" alt="imagem de perfil"/>
+  <img src="https://github.com/Igor-Gallo/IgorGallo/blob/main/Photo%20(miniatura).jpg" alt="imagem de perfil"/>
 </p>
 
 <p align="center">
