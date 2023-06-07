@@ -1,9 +1,6 @@
 <h1 align="center">Olá, mundo! 👋 Me chamo Igor Gallo </h1>
 <h3 align="center">Um apaixonado por tecnologia, redes e Cloud Computing</h3>
 
-<p align="center">
-  <img src="https://github.com/Igor-Gallo/IgorGallo/blob/main/Photo%20(miniatura).jpg" alt="imagem de perfil"/>
-</p>
 
 <p align="center">
   Comecei minha jornada no mundo da tecnologia aos 16 anos, montando computadores. Desde então, descobri minha paixão por Redes e Cloud Computing e adoro enfrentar desafios em projetos que envolvem Cloud Computing, Inteligência Artificial e Arquitetura de Soluções.
