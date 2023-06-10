@@ -75,10 +75,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Igor-Gallo&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueSilva1&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 ---
 
-⭐️ From [Igor-Gallo](https://github.com/seu_username)
+⭐️ From Igor-Gallo(https://github.com/seu_username)
 
