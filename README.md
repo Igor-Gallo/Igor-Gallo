@@ -80,5 +80,5 @@
 
 ---
 
-⭐️ From Igor-Gallo(https://github.com/Igor-Gallo)
+⭐️ From Igor-Gallo (https://github.com/Igor-Gallo)
 
